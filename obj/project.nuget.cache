@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gD2ADjtR07w2tK9zGiRlVLkxaJqytNXVY9HGHRc/ui8lPnIoQhCu1fVzO2sxYDBmSKK29x/qF2K0Yb7Kv4WDZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eren-\\OneDrive\\Desktop\\Projeler\\Patika-Egitim\\Patika-Egitim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eren-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

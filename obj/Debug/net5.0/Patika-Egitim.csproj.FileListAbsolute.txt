@@ -1,0 +1,16 @@
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.csproj.AssemblyReference.cache
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.AssemblyInfoInputs.cache
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.AssemblyInfo.cs
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.csproj.CoreCompileInputs.cache
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.exe
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.deps.json
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.runtimeconfig.json
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.runtimeconfig.dev.json
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.dll
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\bin\Debug\net5.0\Patika-Egitim.pdb
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.dll
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\refint\Patika-Egitim.dll
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.pdb
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\Patika-Egitim.genruntimeconfig.cache
+C:\Users\eren-\OneDrive\Desktop\Projeler\Patika-Egitim\obj\Debug\net5.0\ref\Patika-Egitim.dll
